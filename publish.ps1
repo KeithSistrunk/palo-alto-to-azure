@@ -59,7 +59,7 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_0141ytEP4aZUU84ETAdarVu5
 "@
     $msgFile = Join-Path $env:TEMP 'pan-lab-commit.txt'
-    Set-Content -Path $msgFile -Value $msg -Encoding UTF8
+    [IO.File]::WriteAllText($msgFile, $msg, (New-Object System.Text.UTF8Encoding($false)))  # no BOM
     git commit -q -F $msgFile
     Remove-Item $msgFile -ErrorAction SilentlyContinue
     Write-Host "Committed." -ForegroundColor Green

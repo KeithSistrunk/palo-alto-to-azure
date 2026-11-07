@@ -17,6 +17,10 @@
 
 Replaced an allow-any rule with `trust-to-internet-appid`: `dns`, `ssl`, `web-browsing`, `ping`, `ntp`, `google-base`, service **application-default**. Logging was enabled on `interzone-default` so denies are visible.
 
+## Content updates
+
+Updated App-ID content from 8990-9489 (June 2025) to 9169-10340 (November 2026). Before installing, reviewed the new and modified App-IDs for policy impact; afterward, watched the deny logs for newly identified apps.
+
 ## Issues found and fixed
 
 | Symptom | Cause | Fix |

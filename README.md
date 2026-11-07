@@ -12,23 +12,9 @@ Hands-on lab built on a physical **PA-440 (PAN-OS 11.1)** with an **Azure** hub,
 | 4 | [GlobalProtect remote access](docs/04-globalprotect.md) | Portal and gateway, certificates, split tunnel, local auth |
 | 5 | [PAN-OS XML API automation](docs/05-api-automation.md) | Read-only rule audit, scripted change with partial commit, key handling |
 
-## Topology
+## Architecture
 
-```mermaid
-flowchart LR
-  GP[GlobalProtect client<br/>home Wi-Fi] -- portal/gateway --> WAN
-  subgraph PA[PA-440]
-    WAN[ethernet1/1 untrust]
-    LAN[ethernet1/2 trust<br/>10.100.1.0/24]
-    T1[tunnel.1 vpn]
-    T2[tunnel.2 gp<br/>10.100.50.0/24]
-    LB[loopback.1<br/>10.100.99.1]
-  end
-  WAN --- HR[Home router / ISP]
-  HR == IKEv2 / NAT-T ==> AZ[Azure VPN gateway<br/>Southeast Asia hub 10.0.0.0/16]
-  AZ --- VM[Test VM, East Asia spoke<br/>10.1.0.0/16, gateway transit]
-  LAN --- L[Lab LAN host]
-```
+![PA-440 and Azure lab architecture](docs/architecture.svg)
 
 ## Automation in this repo
 

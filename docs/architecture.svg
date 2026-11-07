@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 724" width="1200" height="724" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="PA-440 and Azure firewall lab architecture" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphZDhkYWRlMy0wYjc2LTQ1MGQtOTY0OC0yYTVjZWY1NDNhMTYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaL7o9JfpGgkkXbTumVZ135EAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0YjJlNmMyZi1hZGI1LTQ5ZmYtOTk4Yy0xNDU3MzJlMTFlYTVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNonUs0JmMGngG6C6gByi/NFQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg9UlUerD0ihYrtZ6IzWc/HPj5f+/+SwCP/+YaQSBeKaOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGwrKWK3Ib+nebSYBTax9hIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIBz2AHe4lzz1zO+6z1qCLG/dCQ1qsj/jzTVve+8pAa+xZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEQZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmFkOGRhZGUzLTBiNzYtNDUwZC05NjQ4LTJhNWNlZjU0M2ExNi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQ4NTdiMzhlLTI2NzAtNDQ5My04N2I5LTI0YWUxNWIxYTRiZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD1SVR6sPSKFiu1nojNZz8c+Pl/7/5LAI//5hpBIF4po6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg4GLSe39LdlbQWCl2vCf0uSMN+tlz996CtMWOUY6CJteiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggC9nbYc6DeA8kF4E5ldNFnZEp8UaxYMQYOP6gFi2ixJh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOn8oERi4gcg+z4xYaLY224YLMy9ELzMIifTuMY5xLiIuV9TIJ/8IoD8TbmDHQz+02iMBABbNE5jdrJuxBKotv0=</c2pa:manifest></metadata>
+  <style>
+    .bg{fill:#ffffff}
+    .ink{fill:#1f2937} .quiet{fill:#6b7280} .accent{fill:#c2410c}
+    .panel{fill:#f8fafc;stroke:#cbd5e1;stroke-width:1.25}
+    .box{fill:#ffffff;stroke:#94a3b8;stroke-width:1.25}
+    .fw{fill:#fff7ed;stroke:#ea580c;stroke-width:2}
+    .az{fill:#eff6ff;stroke:#3b82f6;stroke-width:1.5}
+    .azbox{fill:#ffffff;stroke:#60a5fa;stroke-width:1.25}
+    .row{fill:#ffffff;stroke:#fdba74;stroke-width:1}
+    .chip{fill:#ea580c} .chiptxt{fill:#ffffff}
+    .zone{fill:#ffedd5}
+    .wire{stroke:#64748b;stroke-width:1.5;fill:none}
+    .tunnel{stroke:#ea580c;stroke-width:3;fill:none;stroke-dasharray:10 6}
+    .gp{stroke:#7c3aed;stroke-width:2;fill:none;stroke-dasharray:6 4}
+    .api{stroke:#0891b2;stroke-width:2;fill:none}
+    .peer{stroke:#3b82f6;stroke-width:2;fill:none;stroke-dasharray:4 4}
+    .lbl-gp{fill:#7c3aed} .lbl-api{fill:#0891b2} .lbl-az{fill:#2563eb}
+    @media (prefers-color-scheme: dark){
+      .bg{fill:#0d1117}
+      .ink{fill:#e6edf3} .quiet{fill:#9198a1} .accent{fill:#fb923c}
+      .panel{fill:#161b22;stroke:#30363d}
+      .box{fill:#0d1117;stroke:#484f58}
+      .fw{fill:#1f1610;stroke:#f97316}
+      .az{fill:#0c1a2e;stroke:#3b82f6}
+      .azbox{fill:#0d1117;stroke:#3b82f6}
+      .row{fill:#0d1117;stroke:#7c4a1e}
+      .zone{fill:#3b2414}
+      .wire{stroke:#8b949e}
+      .lbl-gp{fill:#a78bfa} .lbl-api{fill:#22d3ee} .lbl-az{fill:#60a5fa}
+      .gp{stroke:#a78bfa} .api{stroke:#22d3ee}
+    }
+  </style>
+  <defs>
+    <marker id="a-wire" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker>
+    <marker id="a-gp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#7c3aed"/></marker>
+    <marker id="a-api" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0891b2"/></marker>
+    <marker id="a-tun" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#ea580c"/></marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="724" rx="14"/>
+
+  <!-- Title -->
+  <text class="ink" x="32" y="46" font-size="24" font-weight="700">PA-440 + Azure Firewall Lab</text>
+  <text class="quiet" x="32" y="70" font-size="14">Physical next-generation firewall at home, IKEv2 tunnel to an Azure hub-and-spoke, remote access and API automation</text>
+
+  <!-- ===== Home network panel ===== -->
+  <rect class="panel" x="24" y="96" width="268" height="548" rx="12"/>
+  <text class="ink" x="40" y="124" font-size="15" font-weight="700">Home network</text>
+  <text class="quiet" x="40" y="142" font-size="12">192.168.1.0/24</text>
+
+  <rect class="box" x="40" y="160" width="236" height="78" rx="9"/>
+  <text class="ink" x="56" y="186" font-size="14" font-weight="600">GlobalProtect client</text>
+  <text class="quiet" x="56" y="205" font-size="12">Laptop on home Wi-Fi</text>
+  <text class="quiet" x="56" y="222" font-size="12">Tunnel IP 10.100.50.x</text>
+
+  <rect class="box" x="40" y="262" width="236" height="78" rx="9"/>
+  <text class="ink" x="56" y="288" font-size="14" font-weight="600">Admin laptop</text>
+  <text class="quiet" x="56" y="307" font-size="12">VS Code · Python · PowerShell</text>
+  <text class="quiet" x="56" y="324" font-size="12">Audit + change scripts, DPAPI keys</text>
+
+  <rect class="box" x="40" y="520" width="236" height="96" rx="9"/>
+  <text class="ink" x="56" y="546" font-size="14" font-weight="600">Home router / fiber ISP</text>
+  <text class="quiet" x="56" y="565" font-size="12">NAT to the public internet</text>
+  <text class="quiet" x="56" y="582" font-size="12">PA sits behind it (double NAT)</text>
+  <text class="quiet" x="56" y="599" font-size="12">No inbound port forwards</text>
+
+  <!-- ===== PA-440 ===== -->
+  <rect class="fw" x="352" y="96" width="420" height="440" rx="14"/>
+  <text class="ink" x="372" y="126" font-size="18" font-weight="700">PA-440</text>
+  <text class="accent" x="448" y="126" font-size="13" font-weight="600">PAN-OS 11.1</text>
+
+  <!-- feature chips -->
+  <g font-size="11.5" font-weight="600">
+    <rect class="chip" x="372" y="140" width="66" height="22" rx="11"/><text class="chiptxt" x="405" y="155" text-anchor="middle">App-ID</text>
+    <rect class="chip" x="444" y="140" width="104" height="22" rx="11"/><text class="chiptxt" x="496" y="155" text-anchor="middle">SSL decryption</text>
+    <rect class="chip" x="554" y="140" width="98" height="22" rx="11"/><text class="chiptxt" x="603" y="155" text-anchor="middle">GlobalProtect</text>
+    <rect class="chip" x="658" y="140" width="96" height="22" rx="11"/><text class="chiptxt" x="706" y="155" text-anchor="middle">IKEv2 IPsec</text>
+  </g>
+
+  <!-- interface rows -->
+  <g font-size="12.5">
+    <rect class="row" x="372" y="178" width="380" height="46" rx="8"/>
+    <rect class="zone" x="382" y="190" width="58" height="22" rx="5"/><text class="accent" x="411" y="205" text-anchor="middle" font-size="11" font-weight="700">MGT</text>
+    <text class="ink" x="452" y="198" font-weight="600">192.168.1.100</text>
+    <text class="quiet" x="452" y="214">Out-of-band admin · XML API endpoint</text>
+
+    <rect class="row" x="372" y="232" width="380" height="46" rx="8"/>
+    <rect class="zone" x="382" y="244" width="58" height="22" rx="5"/><text class="accent" x="411" y="259" text-anchor="middle" font-size="11" font-weight="700">untrust</text>
+    <text class="ink" x="452" y="252" font-weight="600">ethernet1/1 · 192.168.1.2</text>
+    <text class="quiet" x="452" y="268">GP portal + gateway · IKE local address</text>
+
+    <rect class="row" x="372" y="286" width="380" height="46" rx="8"/>
+    <rect class="zone" x="382" y="298" width="58" height="22" rx="5"/><text class="accent" x="411" y="313" text-anchor="middle" font-size="11" font-weight="700">gp</text>
+    <text class="ink" x="452" y="306" font-weight="600">tunnel.2 · pool 10.100.50.0/24</text>
+    <text class="quiet" x="452" y="322">Split tunnel to the lab LAN and loopback</text>
+
+    <rect class="row" x="372" y="340" width="380" height="46" rx="8"/>
+    <rect class="zone" x="382" y="352" width="58" height="22" rx="5"/><text class="accent" x="411" y="367" text-anchor="middle" font-size="11" font-weight="700">vpn</text>
+    <text class="ink" x="452" y="360" font-weight="600">tunnel.1 · route 10.0.0.0/15</text>
+    <text class="quiet" x="452" y="376">Route-based tunnel to Azure hub + spoke</text>
+
+    <rect class="row" x="372" y="394" width="380" height="46" rx="8"/>
+    <rect class="zone" x="382" y="406" width="58" height="22" rx="5"/><text class="accent" x="411" y="421" text-anchor="middle" font-size="11" font-weight="700">trust</text>
+    <text class="ink" x="452" y="414" font-weight="600">ethernet1/2 · 10.100.1.1/24</text>
+    <text class="quiet" x="452" y="430">DHCP · source NAT out · SSL decryption</text>
+
+    <rect class="row" x="372" y="448" width="380" height="46" rx="8"/>
+    <rect class="zone" x="382" y="460" width="58" height="22" rx="5"/><text class="accent" x="411" y="475" text-anchor="middle" font-size="11" font-weight="700">trust</text>
+    <text class="ink" x="452" y="468" font-weight="600">loopback.1 · 10.100.99.1/32</text>
+    <text class="quiet" x="452" y="484">Always-up test target</text>
+  </g>
+  <text class="quiet" x="372" y="520" font-size="12">Policy: App-ID allow lists · application-default · logged default deny</text>
+
+  <!-- Lab LAN -->
+  <rect class="box" x="432" y="568" width="260" height="76" rx="9"/>
+  <text class="ink" x="448" y="594" font-size="14" font-weight="600">Lab LAN host</text>
+  <text class="quiet" x="448" y="613" font-size="12">10.100.1.100 · behind trust</text>
+  <text class="quiet" x="448" y="630" font-size="12">Reached by GP users and from Azure</text>
+
+  <!-- ===== Azure ===== -->
+  <rect class="az" x="832" y="96" width="344" height="548" rx="14"/>
+  <text class="ink" x="852" y="126" font-size="18" font-weight="700">Microsoft Azure</text>
+  <text class="lbl-az" x="852" y="146" font-size="12" font-weight="600">Built with Azure CLI · torn down between sessions</text>
+
+  <rect class="azbox" x="852" y="166" width="304" height="196" rx="10"/>
+  <text class="ink" x="868" y="192" font-size="14" font-weight="600">Hub · Southeast Asia</text>
+  <text class="quiet" x="868" y="210" font-size="12">vnet-hub 10.0.0.0/16</text>
+  <rect class="az" x="868" y="226" width="272" height="118" rx="8"/>
+  <text class="ink" x="884" y="252" font-size="13" font-weight="600">VPN gateway · VpnGw1AZ</text>
+  <text class="quiet" x="884" y="271" font-size="12">Route-based · ResponderOnly</text>
+  <text class="quiet" x="884" y="288" font-size="12">Custom IPsec policy: AES-256,</text>
+  <text class="quiet" x="884" y="305" font-size="12">SHA-256, DH14, PFS2048</text>
+  <text class="quiet" x="884" y="322" font-size="12">Local network gateway → home lab</text>
+
+  <rect class="azbox" x="852" y="438" width="304" height="140" rx="10"/>
+  <text class="ink" x="868" y="464" font-size="14" font-weight="600">Spoke · East Asia</text>
+  <text class="quiet" x="868" y="482" font-size="12">vnet-eastasia-1 10.1.0.0/16</text>
+  <rect class="box" x="868" y="496" width="272" height="66" rx="8"/>
+  <text class="ink" x="884" y="520" font-size="13" font-weight="600">Lab-Vm · 10.1.0.4</text>
+  <text class="quiet" x="884" y="538" font-size="12">Ubuntu 24.04 · no public IP</text>
+  <text class="quiet" x="884" y="553" font-size="12">Reached only through the tunnel</text>
+
+  <!-- peering -->
+  <path class="peer" d="M1004 362 V438"/>
+  <text class="lbl-az" x="1014" y="398" font-size="12" font-weight="600">VNet peering</text>
+  <text class="lbl-az" x="1014" y="414" font-size="12">gateway transit</text>
+
+  <!-- ===== Connections ===== -->
+  <!-- GP client -> ethernet1/1 -->
+  <path class="gp" d="M276 199 H316 V255 H366" marker-end="url(#a-gp)"/>
+  <!-- Admin laptop -> MGT -->
+  <path class="api" d="M276 301 H330 V201 H366" marker-end="url(#a-api)"/>
+  <!-- ethernet1/1 -> home router (wire down the left gutter) -->
+  <path class="wire" d="M372 268 H340 V568 H276" marker-end="url(#a-wire)"/>
+  <!-- trust -> lab LAN -->
+  <path class="wire" d="M562 494 V568" marker-end="url(#a-wire)"/>
+  <!-- tunnel: router -> Azure VPN gateway -->
+  <path class="tunnel" d="M276 604 H310 V694 H800 V285 H862" marker-end="url(#a-tun)"/>
+
+  <!-- connection labels -->
+  <g font-size="11.5" font-weight="600">
+    <text class="lbl-gp" x="40" y="252">GlobalProtect → portal/gateway</text>
+    <text class="lbl-api" x="40" y="354">XML API over HTTPS → MGT</text>
+    <text class="accent" x="330" y="682">IKEv2 IPsec from the PA through the home router · NAT-T UDP 4500 · AES-256</text>
+  </g>
+</svg>

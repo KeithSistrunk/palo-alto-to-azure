@@ -1,0 +1,169 @@
+{
+  "version": "2.0.0",
+  "inputs": [
+    {
+      "id": "objName",
+      "type": "promptString",
+      "description": "Address object name",
+      "default": "lab-loopback"
+    },
+    {
+      "id": "objIp",
+      "type": "promptString",
+      "description": "IP or subnet",
+      "default": "10.100.99.1/32"
+    }
+  ],
+  "tasks": [
+    {
+      "label": "PAN: Run rule audit",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\run-audit.ps1"
+      ],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "PAN: Create apiwriter account (bootstrap)",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\bootstrap-writer.ps1"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Remove apiwriter account",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\bootstrap-writer.ps1",
+        "-Remove"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Add address object (dry run)",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\run-push.ps1",
+        "--name",
+        "${input:objName}",
+        "--ip",
+        "${input:objIp}"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Add address object (APPLY + commit)",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\run-push.ps1",
+        "--name",
+        "${input:objName}",
+        "--ip",
+        "${input:objIp}",
+        "--apply"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Remove address object (APPLY + commit)",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\run-push.ps1",
+        "--name",
+        "${input:objName}",
+        "--remove",
+        "--apply"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Setup / new read-only key",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\setup.ps1"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Setup / new writer key",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\setup.ps1",
+        "-KeyName",
+        "writer"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Publish to GitHub",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\publish.ps1"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "PAN: Pull latest from Downloads",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}\\pull-latest.ps1"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}

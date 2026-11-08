@@ -2,7 +2,7 @@
 # Safe to re-run: later runs just commit and push new changes.
 $ErrorActionPreference = 'Continue'
 Set-Location $PSScriptRoot
-$RepoName = 'palo-alto-firewall-lab'
+$RepoName = 'palo-alto-to-azure'
 
 function Stop-With($msg) { Write-Host $msg -ForegroundColor Red; exit 1 }
 

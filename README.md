@@ -1,6 +1,6 @@
 # Palo Alto PA-440 Firewall Lab
 
-Hands-on lab built on a physical **PA-440 (PAN-OS 11.1)** with an **Azure** hub, covering the work firewall engineering roles ask for: App-ID policy, NAT, SSL decryption, site-to-site IPsec, GlobalProtect remote access, and API automation in Python. Each lab includes the build, validation, deliberate break-and-fix tests, and the real log evidence.
+Hands-on lab built on a physical **PA-440 (PAN-OS 11.1)** with an **Azure** hub, covering the work firewall engineering roles ask for: App-ID policy, NAT, SSL decryption, site-to-site IPsec with BGP, GlobalProtect remote access, and API automation in Python. Each lab includes the build, validation, deliberate break-and-fix tests, and the real log evidence.
 
 ## Labs
 
@@ -15,6 +15,12 @@ Hands-on lab built on a physical **PA-440 (PAN-OS 11.1)** with an **Azure** hub,
 ## Architecture
 
 ![PA-440 and Azure lab architecture](docs/architecture.svg)
+
+### BGP over the site-to-site VPN
+
+The static route to Azure was replaced by eBGP running inside the IPsec tunnel (PA AS 65010, Azure AS 65515). The static route stays as a floating backup.
+
+![BGP between the PA-440 and Azure](docs/bgp-architecture.svg)
 
 ## Automation in this repo
 

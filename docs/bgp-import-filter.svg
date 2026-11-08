@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 530" width="1200" height="530" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Palo Alto BGP import filter dropping 10.0.0.0/16 from Azure" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozMDU5ZDRjYy1lY2Q1LTRmY2ItYmE4OC03ZTRjNDkxMTI4NzkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPJ5ALFRyfEGKLauYm/Ww10AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyNGRlMGJiNS02OTQ1LTQ4MmMtYTI5MS0wM2ZjOTM0YmZjOTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoQFzYqfXNNaaAU7ow4SvBVQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFF7iiME5BatFU17TGtKmmVybvWcoJSPuwKiIWCXxCKukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaODwu7iWaXb1mnyULSFBvdsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIIfl5IgoC97acfSy0lOZ2tjc8pD0A7t4eTy4jTuBhXJpZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQEhZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMwNTlkNGNjLWVjZDUtNGZjYi1iYTg4LTdlNGM0OTExMjg3OS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjBkZWUwOGI3LTY3ZTAtNDQ0Ny1hMzljLTZiZmVmMmJjNDg0OXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAUXuKIwTkFq0VTXtMa0qaZXJu9ZyglI+7AqIhYJfEIq6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggFEREXRJ2q+5gLrHve0cxN6Wp4nfec+lxSwz9H6EPUeGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggjqITkBnvPMLPG715V4yH6y229CXqQPeMPvYYYG0wtJ90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQA6EEixXaLLi35KG8+jXUQdzksbnwkM8bjmAZ8C7LzjxavLdxyS0/IQN+iJrd+sRHlsLYFGq79VQ0aV+syLacw4=</c2pa:manifest></metadata>
+  <style>
+    .bg{fill:#0d1117}
+    .ink{fill:#e6edf3} .quiet{fill:#9198a1} .accent{fill:#fb923c} .lbl-az{fill:#60a5fa}
+    .red{fill:#f87171} .green{fill:#4ade80}
+    .fw{fill:#1f1610;stroke:#f97316;stroke-width:2}
+    .az{fill:#0c1a2e;stroke:#3b82f6;stroke-width:1.5}
+    .azrow{fill:#0d1117;stroke:#3b82f6;stroke-width:1.25}
+    .row{fill:#0d1117;stroke:#7c4a1e;stroke-width:1}
+    .res{fill:#161b22;stroke:#30363d;stroke-width:1.5}
+    .rowok{fill:#0d1117;stroke:#166534;stroke-width:1.5}
+    .rowbad{fill:#0d1117;stroke:#7f1d1d;stroke-width:1.5;stroke-dasharray:5 4}
+    .card{fill:#161b22;stroke:#30363d;stroke-width:1.25}
+    .num{fill:#ea580c} .numtxt{fill:#ffffff}
+    .pdeny{fill:#991b1b} .pallow{fill:#166534} .ptxt{fill:#ffffff}
+    .tagpa{fill:#ea580c} .tagaz{fill:#2563eb}
+    .lred{stroke:#f87171;stroke-width:2.5;fill:none}
+    .lgreen{stroke:#4ade80;stroke-width:2.5;fill:none}
+    .strike{stroke:#f87171;stroke-width:1.5}
+    .mono{font-family:Consolas, "Cascadia Mono", Menlo, monospace}
+  </style>
+  <defs>
+    <marker id="a-r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#f87171"/></marker>
+    <marker id="a-g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#4ade80"/></marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="530" rx="14"/>
+
+  <text class="ink" x="32" y="46" font-size="24" font-weight="700">BGP inbound route filter</text>
+  <g font-size="13" font-weight="700">
+    <rect class="tagpa" x="330" y="26" width="92" height="26" rx="13"/><text class="ptxt" x="376" y="44" text-anchor="middle">Palo Alto</text>
+    <text class="quiet" x="436" y="44" text-anchor="middle" font-size="16">←</text>
+    <rect class="tagaz" x="450" y="26" width="68" height="26" rx="13"/><text class="ptxt" x="484" y="44" text-anchor="middle">Azure</text>
+  </g>
+  <text class="quiet" x="32" y="70" font-size="14">An import rule drops the hub route on the PA; Azure always advertises every vnet and can't filter what it sends</text>
+
+  <!-- ===== Azure ===== -->
+  <rect class="az" x="24" y="100" width="300" height="220" rx="14"/>
+  <text class="ink" x="44" y="130" font-size="17" font-weight="700">Azure VPN gateway</text>
+  <text class="lbl-az" x="44" y="150" font-size="12.5" font-weight="600">AS 65515 · peer 10.0.0.30</text>
+  <rect class="azrow" x="40" y="180" width="268" height="40" rx="8"/>
+  <text class="ink" x="54" y="205" font-size="13" font-weight="600">10.0.0.0/16</text>
+  <text class="quiet" x="150" y="205" font-size="12">vnet-hub</text>
+  <rect class="azrow" x="40" y="234" width="268" height="40" rx="8"/>
+  <text class="ink" x="54" y="259" font-size="13" font-weight="600">10.1.0.0/16</text>
+  <text class="quiet" x="150" y="259" font-size="12">vnet-eastasia-1</text>
+  <text class="quiet" x="44" y="302" font-size="12">Both sent as BGP UPDATEs</text>
+
+  <!-- arrows in -->
+  <line class="lred" x1="308" y1="200" x2="402" y2="200" marker-end="url(#a-r)"/>
+  <line class="lgreen" x1="308" y1="254" x2="402" y2="254" marker-end="url(#a-g)"/>
+
+  <!-- ===== Import policy ===== -->
+  <rect class="fw" x="372" y="100" width="456" height="220" rx="14"/>
+  <text class="ink" x="392" y="130" font-size="17" font-weight="700">PA-440 · BGP Import</text>
+  <text class="accent" x="392" y="150" font-size="12.5" font-weight="600">Used by peer group azure · top-down, first match wins</text>
+
+  <rect class="row" x="410" y="180" width="402" height="40" rx="8"/>
+  <text class="quiet" x="424" y="205" font-size="12" font-weight="700">1</text>
+  <text class="ink" x="442" y="205" font-size="13" font-weight="600">deny-hub</text>
+  <text class="quiet" x="524" y="205" font-size="12">10.0.0.0/16 · exact</text>
+  <rect class="pdeny" x="736" y="189" width="62" height="22" rx="11"/><text class="ptxt" x="767" y="204" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.6">DENY</text>
+
+  <rect class="row" x="410" y="234" width="402" height="40" rx="8"/>
+  <text class="quiet" x="424" y="259" font-size="12" font-weight="700">2</text>
+  <text class="ink" x="442" y="259" font-size="13" font-weight="600">allow-rest</text>
+  <text class="quiet" x="524" y="259" font-size="12">any prefix</text>
+  <rect class="pallow" x="736" y="243" width="62" height="22" rx="11"/><text class="ptxt" x="767" y="258" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.6">ALLOW</text>
+
+  <text class="quiet" x="392" y="302" font-size="12">Like an inbound prefix-list / route-map on Cisco</text>
+
+  <!-- arrows out -->
+  <text class="red" x="852" y="205" font-size="16" font-weight="700" text-anchor="middle">✕</text>
+  <line class="lgreen" x1="812" y1="254" x2="906" y2="254" marker-end="url(#a-g)"/>
+
+  <!-- ===== Result ===== -->
+  <rect class="res" x="876" y="100" width="300" height="220" rx="14"/>
+  <text class="ink" x="896" y="130" font-size="17" font-weight="700">PA BGP table (loc-rib)</text>
+  <text class="quiet" x="896" y="150" font-size="12.5">After commit</text>
+
+  <rect class="rowbad" x="892" y="180" width="268" height="40" rx="8"/>
+  <text class="quiet" x="906" y="205" font-size="13" font-weight="600">10.0.0.0/16</text>
+  <line class="strike" x1="904" y1="200" x2="986" y2="200"/>
+  <text class="red" x="1000" y="205" font-size="12" font-weight="600">Policy Rej 1</text>
+
+  <rect class="rowok" x="892" y="234" width="268" height="40" rx="8"/>
+  <text class="ink" x="906" y="259" font-size="13" font-weight="600">10.1.0.0/16</text>
+  <text class="green" x="1000" y="259" font-size="12" font-weight="600">✓ installed</text>
+
+  <text class="quiet" x="896" y="302" font-size="12">Next hop 10.0.0.30 via tunnel.1</text>
+
+  <!-- ===== Key points ===== -->
+  <text class="ink" x="32" y="368" font-size="16" font-weight="700">Key points</text>
+  <g font-size="12">
+    <rect class="card" x="24" y="382" width="276" height="120" rx="10"/>
+    <circle class="num" cx="44" cy="404" r="11"/><text class="numtxt" x="44" y="408" text-anchor="middle" font-weight="700">1</text>
+    <text class="ink" x="62" y="409" font-size="13" font-weight="600">Session stays up</text>
+    <text class="quiet" x="38" y="436">The peer 10.0.0.30 is reached by</text>
+    <text class="quiet" x="38" y="454">its own static /32, not by the</text>
+    <text class="quiet" x="38" y="472">filtered /16.</text>
+
+    <rect class="card" x="316" y="382" width="276" height="120" rx="10"/>
+    <circle class="num" cx="336" cy="404" r="11"/><text class="numtxt" x="336" y="408" text-anchor="middle" font-weight="700">2</text>
+    <text class="ink" x="354" y="409" font-size="13" font-weight="600">Hub still reachable</text>
+    <text class="quiet" x="330" y="436">The floating static 10.0.0.0/15</text>
+    <text class="quiet" x="330" y="454">(AD 240) still covers the hub, so</text>
+    <text class="quiet" x="330" y="472">check routes, not ping.</text>
+
+    <rect class="card" x="608" y="382" width="276" height="120" rx="10"/>
+    <circle class="num" cx="628" cy="404" r="11"/><text class="numtxt" x="628" y="408" text-anchor="middle" font-weight="700">3</text>
+    <text class="ink" x="646" y="409" font-size="13" font-weight="600">Explicit allow-rest</text>
+    <text class="quiet" x="622" y="436">A catch-all Allow after the deny</text>
+    <text class="quiet" x="622" y="454">keeps 10.1.0.0/16 accepted,</text>
+    <text class="quiet" x="622" y="472">whatever the default behavior.</text>
+
+    <rect class="card" x="900" y="382" width="276" height="120" rx="10"/>
+    <circle class="num" cx="920" cy="404" r="11"/><text class="numtxt" x="920" y="408" text-anchor="middle" font-weight="700">4</text>
+    <text class="ink" x="938" y="409" font-size="13" font-weight="600">Verify</text>
+    <text class="ink mono" x="914" y="436" font-size="11.5">show routing protocol bgp loc-rib</text>
+    <text class="ink mono" x="914" y="454" font-size="11.5">show routing protocol bgp peer</text>
+    <text class="quiet" x="914" y="472">Look for Policy Rej 1</text>
+  </g>
+</svg>

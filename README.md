@@ -22,6 +22,12 @@ The static route to Azure was replaced by eBGP running inside the IPsec tunnel (
 
 ![BGP between the PA-440 and Azure](docs/bgp-architecture.svg)
 
+### BGP inbound route filter
+
+A BGP import rule on the PA drops the hub prefix (10.0.0.0/16) while keeping the spoke route, tested as part of the BGP break-and-fix work.
+
+![BGP import filter on the PA-440](docs/bgp-import-filter.svg)
+
 ## Automation in this repo
 
 ```text

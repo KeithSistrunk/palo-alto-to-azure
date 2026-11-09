@@ -1,6 +1,6 @@
 # Lab 3: Site-to-site IPsec VPN to Azure
 
-**Goal:** route-based IKEv2 tunnel from the home-lab PA-440 (behind NAT) to an Azure VPN gateway, with static routing, then troubleshoot real failures from the logs.
+**Goal:** route-based IKEv2 tunnel from the PA-440 (behind NAT) to an Azure VPN gateway, with static routing, then troubleshoot real failures from the logs.
 
 ## Design
 

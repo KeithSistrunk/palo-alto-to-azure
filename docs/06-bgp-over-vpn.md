@@ -62,11 +62,7 @@ Flap counts:     1, established 1 times
 
 The far end of tunnel.1 is the Azure gateway, and the gateway itself is the BGP speaker at `10.0.0.30`, so the packet travels one hop and TTL 1 is enough. PAN-OS also did not refuse to peer with a neighbor outside its connected subnets, unlike a Cisco router's eBGP connected check. Multihop is needed when the peer sits past the gateway (Azure Route Server, a router or firewall VM in the VNet). Kept at 2 as a safety margin.
 
-### 3. Redistribution disabled
-
-Disabled the redistribution rule. The session stayed Established, but advertised prefixes dropped to 0 and Azure removed `10.100.1.0/24`. An established session doesn't prove routes are exchanged; check the advertised and accepted counts.
-
-### 4. Inbound route filter
+### 3. Inbound route filter
 
 Azure always advertises every VNet it can reach, so filtering happens on the PA with BGP import rules: `deny-hub` (exact `10.0.0.0/16`, deny) followed by `allow-rest` (any, allow).
 
